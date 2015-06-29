@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6254" systemVersion="14D136" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Producto" syncable="YES">
+        <attribute name="calidadListaProducto" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="caracteristicasListaProducto" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="categoriaListaProducto" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="habitoListaProducto" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nombreListaProducto" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="precioListaProducto" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Producto" positionX="-63" positionY="-18" width="128" height="133"/>
+    </elements>
+</model>
